@@ -1,0 +1,27 @@
+{
+  "name": "hashwork",
+  "version": "1.0.3",
+  "description": "Generate a simple ASCII artwork with strings",
+  "main": "dist/hashwork.js",
+  "scripts": {
+    "test": "node dist/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creuserr/hashwork.git"
+  },
+  "keywords": [
+    "hash",
+    "art",
+    "artwork",
+    "ascii",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "creuserr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creuserr/hashwork/issues"
+  },
+  "homepage": "https://github.com/creuserr/hashwork#readme"
+}
