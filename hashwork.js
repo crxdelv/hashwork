@@ -1,11 +1,11 @@
 /**
- * Agent Rotator Library v1.0.0
- * https://github.com/creuserr/agent-rotator
+ * Hashwork v1.0.3
+ * https://github.com/creuserr/hashwork
  *
  * Released under the MIT license
- * https://github.com/creuserr/agent-rotator#license
+ * https://github.com/creuserr/hashwork#license
  *
- * Date: 2024-07-11
+ * Date: 2024-07-29
  */
 
 (() => {
