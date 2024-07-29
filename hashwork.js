@@ -1,3 +1,13 @@
+/**
+ * Agent Rotator Library v1.0.0
+ * https://github.com/creuserr/agent-rotator
+ *
+ * Released under the MIT license
+ * https://github.com/creuserr/agent-rotator#license
+ *
+ * Date: 2024-07-11
+ */
+
 (() => {
 
 async function hashwork(text="", config={}) {
@@ -34,7 +44,7 @@ hashwork.CHARSET_MATH = ["+", "-", "*", "/", "="];;
 hashwork.CHARSET_HAIR = ["|", "|", "|", "!"];
 hashwork.CHARSET_DEFAULT = [" ", " ", " ", ".", "x", "+"];
 
-hashwork.VERSION = "1.0.2";
+hashwork.VERSION = "1.0.3";
 
 if("window" in globalThis) {
   window.Hashwork = hashwork;
